@@ -1,4 +1,4 @@
 # minerva-validation
 Biblioteca de validações para o minerva-framework
 
-![](http://i.imgur.com/LMzVhSQ.png)
+![http://i.imgur.com/LMzVhSQ.png](Estrutura)
